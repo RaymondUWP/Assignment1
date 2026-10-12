@@ -33,3 +33,14 @@ print("CS 1430  |  Introduction to Python  |  UW-Platteville")
 
 
 # ---------------------- ADD YOUR CODE BELOW THIS LINE ---------------------
+print("Made by Raymond Smith")
+
+MY_NAME = """ 
+RRRR AAAA Y   Y
+R  R A  A  Y Y
+RRRR AAAA   Y
+R R  A  A   Y
+R  R A  A   Y
+"""
+
+print(MY_NAME)
